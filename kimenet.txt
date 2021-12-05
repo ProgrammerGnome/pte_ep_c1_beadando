@@ -1,0 +1,7 @@
+A legtöbb kalóriát tartalmazó kettős fogás az adatbázisunkban lévő kaják közül, 
+ami még nem haladja meg a kalóriabevitel felső limitét. 
+(Természetesen a menü itt két különzöző kaját tartalmaz): 
+
+Zala felvagott és Csecsi szalonna
+
+Ez a menü 1064 kcal-t tartalmaz, az Ön kalórialimite pedig 1264 kcal volt.

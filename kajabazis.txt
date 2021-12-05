@@ -1,0 +1,30 @@
+TESZT
+10
+Fejes salata
+17
+Csirkecomb
+136
+Pacal
+168
+Baromfivirsli
+198
+Paradicsomos hering
+217
+Virsli
+238
+TESZTELOI_KAJA
+244
+Bakonyi barna kenyer
+249
+Zala felvagott
+253
+Csabai csipos kolbasz
+472
+Csecsi szalonna
+811
+Camambert
+1500
+TESZT_ketto
+2200
+TESZT_harom_pelda
+2300
