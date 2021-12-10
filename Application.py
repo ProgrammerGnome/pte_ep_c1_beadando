@@ -45,7 +45,7 @@ de a lehető legtöbb kalóriát tartalmazza, valamint a menü két étele kül�
                         sorrend_ellenorzo_n += 1
                         if kaloriak[sorrend_ellenorzo_n-1] > kaloriak[sorrend_ellenorzo_n]:
                                 print("\nERROR#0: Kérem növekvő kalóriasorrendben adja meg az ételeket a kajabazis.txt fájlban.")
-                                hiba
+                                hiba #Ez SZÁNDÉKOS hibagenerálás, direkt van így!
                         else: break
                         
                 try: #hibakezelés rossz formátumú adat megadása esetén
